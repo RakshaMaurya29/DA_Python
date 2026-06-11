@@ -24,6 +24,6 @@ Performed Exploratory Data Analysis (EDA) on Diwali sales data using Python to u
 ## Project Files
 
 - Diwali_Sales_Data.ipynb https://github.com/RakshaMaurya29/DA_Python/blob/main/Diwali_Sales_Data.ipynb
-- Diwali Sales Data.csv 
-- Visualizations
+- Diwali Sales Data.csv https://github.com/RakshaMaurya29/DA_Python/blob/main/Diwali%20Sales%20Data.csv
+
 
